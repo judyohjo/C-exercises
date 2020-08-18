@@ -1,4 +1,4 @@
-# Project-1--c language
+# C-programming-language
 echo "# Project-1" >> README.md
 git init
 git add README.md
