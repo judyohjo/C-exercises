@@ -1,4 +1,13 @@
 # C-programming-language
+#include <stdio.h>
+
+int main() {
+   int x = 5;
+   printf("%d", x);
+   return 0;
+ }
+ 
+   
 echo "# Project-1" >> README.md
 git init
 git add README.md
