@@ -1,10 +1,15 @@
 # C-programming-language
+
 #include <stdio.h>
 
 int main() {
-	int x = 5;
-   	printf("%d", x);
-   	return 0;
+
+    int x = 5;
+    
+    printf("%d", x);
+    
+    return 0;
+    
  }
  
    
