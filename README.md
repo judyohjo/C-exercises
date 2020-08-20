@@ -1,16 +1,16 @@
 # C-programming-language
 
-#include <stdio.h>
+    #include <stdio.h>
 
-int main() {
+    int main() {
 
-    int x = 5;
+        int x = 5;
     
-    printf("%d", x);
+        printf("%d", x);
     
-    return 0;
+        return 0;
     
- }
+    }
  
  # Content
  C language exercises 1 ~ 5 -> Basic exercises
