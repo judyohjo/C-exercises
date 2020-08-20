@@ -13,8 +13,10 @@ int main() {
  }
  
  # Content
+ C language exercises 1 ~ 5 -> Basic exercises
  
-   
+ 
+# Other  
 echo "# Project-1" >> README.md
 git init
 git add README.md
