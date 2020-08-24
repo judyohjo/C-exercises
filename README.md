@@ -1,4 +1,4 @@
-# C-programming-language
+# C language
 
     #include <stdio.h>
 
@@ -12,7 +12,7 @@
     
     }
  
- # Content
+ # Contents
  C language exercises 1 ~ 5 -> Basic exercises
  
  
