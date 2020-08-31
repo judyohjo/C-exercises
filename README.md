@@ -15,6 +15,8 @@
  # Contents
  C language exercises 1 ~ 5 -> Basic exercises
  
+ C language exercises -> Function exercises
+ 
  
 # Other  
 echo "# Project-1" >> README.md
