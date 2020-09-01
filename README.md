@@ -1,4 +1,9 @@
-# C language
+# Contents
+ C language exercises 1 ~ 5 -> Basic exercises
+ 
+ C language exercises -> Function exercises
+ 
+ # C language
 
     #include <stdio.h>
 
@@ -11,11 +16,6 @@
         return 0;
     
     }
- 
- # Contents
- C language exercises 1 ~ 5 -> Basic exercises
- 
- C language exercises -> Function exercises
  
  
 # Other  
