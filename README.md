@@ -3,7 +3,7 @@
  
  C language exercises -> Function exercises
  
- # C language
+ # C language/C++ language
 
     #include <stdio.h>
 
