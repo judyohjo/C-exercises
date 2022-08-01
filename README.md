@@ -1,10 +1,10 @@
-These are exercises I practiced for C/C++ language.
+These are exercises I practiced for C.
 
 # Contents
 - C language exercises 1 ~ 5 -> Basic exercises
 - C language exercises -> Function exercises
  
- # C language/C++ language
+ # C language
 
     #include <stdio.h>
 
